@@ -8,7 +8,7 @@ With a strong grasp of programming languages like HTML, CSS, and JavaScript, and
 
 *   🌍  I'm based in Longueuil, QC, Canada
 *   ✉️  You can contact me at [ericfrontdev@outlook.com](mailto:ericfrontdev@outlook.com)
-*   🧠  I'm learning ASP.NET Core
+*   🧠  I'm learning Nuxt
 *   ⚡  I can also do backend with Node.js and UI design with Figma
 
 ### Skills 
