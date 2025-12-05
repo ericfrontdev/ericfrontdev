@@ -1,10 +1,10 @@
 Hi 👋 My name is Eric Ouellette
 ===============================
 
-Full-Stack Developer
+Full-Stack TypeScript Developer
 -------------------
 
-With a strong grasp of programming languages like HTML, CSS, and JavaScript, and extensive experience with frameworks like Next.js, React and Express, I'm able to create engaging and intuitive user experiences. His love for design leads him to constantly look for ways to improve the aesthetics and functionality of interfaces.
+With a strong grasp of programming languages like HTML, CSS, and TypeScript, and extensive experience with frameworks like Next.js, React and Express, I'm able to create engaging and intuitive user experiences. His love for design leads him to constantly look for ways to improve the aesthetics and functionality of interfaces.
 
 *   📍  I'm based in Longueuil, QC, Canada
 *   🌍  You can check my portfolio at [https://ericouellette.com](https://ericouellette.com)
